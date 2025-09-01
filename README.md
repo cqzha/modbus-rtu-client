@@ -1,8 +1,7 @@
-# ModBusRTUClient
+# modbus-rtu-client
 
-ModBusRTUClient is a simple ModBus RTU client library
+modbus-rtu-client is a simple ModBus RTU client library
 
----
 
 ## Features
 - Construct ModBusRTU commands
@@ -10,9 +9,12 @@ ModBusRTUClient is a simple ModBus RTU client library
 - Parse ModBusRTU responses
 
 ## Installation
+```bash
+git clone https://github.com/cqzha/modbus-rtu-client
+cd modbus-rtu-client
+pip install -e .
+```
 
-
----
 
 ## Quick Start
 - Please refer demos
