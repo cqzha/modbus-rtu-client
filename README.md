@@ -15,7 +15,6 @@ cd modbus-rtu-client
 pip install -e .
 ```
 
-
 ## Quick Start
 - Please refer demos
 

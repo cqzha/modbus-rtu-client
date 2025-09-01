@@ -1,6 +1,6 @@
-from src.modbus_rtu_client.base import ModBusRtuClient
-from src.modbus_rtu_client.base import RtuMessage, RtuResponseError
-from src.modbus_rtu_client.cmd import Cmd, RespAnalyzer
+from modbus_rtu_client.base import ModBusRtuClient
+from modbus_rtu_client.base import RtuMessage, RtuResponseError
+from modbus_rtu_client.cmd import Cmd, RespAnalyzer
 import serial
 import math
 from bitarray import bitarray
